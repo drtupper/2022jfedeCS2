@@ -1,0 +1,24 @@
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+body{
+    background-color: lightblue;
+}
+h1 {font-size: 3.375rem}
+h2 {font-size: 2.25rem}
+h3 {font-size: 1.5em}
+p {font-size: 1rem}
+
+p:last-child {
+    margin-bottom: 3rem;
+}
+li:last-child{
+    margin-bottom: 3rem;
+}
+.container {
+    width: 900px;
+}
+.info {
+    text-indent: 3rem;
+}
